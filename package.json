@@ -1,0 +1,28 @@
+{
+  "name": "elevatelab-task3",
+  "version": "1.0.0",
+  "description": "this is task three from elevate lab internship ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ay05h/ElevateLab-Task3.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Ayush Kumar Rai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ay05h/ElevateLab-Task3/issues"
+  },
+  "homepage": "https://github.com/ay05h/ElevateLab-Task3#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
